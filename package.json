@@ -1,0 +1,20 @@
+{
+  "name": "elai-cypress-tests",
+  "version": "1.0.0",
+  "description": "Testes automatizados da plataforma Elai usando Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "keywords": [
+    "cypress",
+    "elai",
+    "testes",
+    "qa"
+  ],
+  "author": "Rafaell",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
